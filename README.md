@@ -44,7 +44,7 @@ To use the deepZF pipeline:
 
 **Credits**
 
-This project was developed in collaboration with my project partner, [Eden Ben-David](https://github.com/edenbdv), in the lab of Prof. Yaron Orenstein.
+This project was developed in collaboration with my project partner, [Eden Ben-David](https://github.com/edenbdv), in the [lab of Prof. Yaron Orenstein] (https://github.com/OrensteinLab/DeepZF)..
 
 **Project Article**
 
