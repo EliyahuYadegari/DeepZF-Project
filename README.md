@@ -25,7 +25,7 @@ The deepZF pipeline enables biologists to input a specific protein sequence and 
 
    - In addition,the user will be able to see the LogoSeq for all fingers whose probability is above the given threshold.
 
-   - ![‏‏3](https://github.com/user-attachments/assets/de1a0965-c2fa-4931-899b-58e1a5bf3a0f)
+ ![‏‏3](https://github.com/user-attachments/assets/de1a0965-c2fa-4931-899b-58e1a5bf3a0f)
 
 
 **Usage**
