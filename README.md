@@ -48,4 +48,4 @@ This project was developed in collaboration with my project partner, [Eden Ben-D
 
 **Project Article**
 
-For more details on the project, see the article on [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii62/6702003#401889310) and the [Orenstein Lab GitHub repository](https://github.com/OrensteinLab/DeepZF).
+For more details on the project, see the article on [DeepZF Article](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii62/6702003#401889310) and the [Orenstein Lab GitHub repository](https://github.com/OrensteinLab/DeepZF).
